@@ -1,0 +1,4 @@
+Flask==3.0.0
+undetected-chromedriver==3.5.4
+fake-useragent==1.4.0
+beautifulsoup4==4.12.3
